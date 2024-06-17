@@ -1,0 +1,1 @@
+ /Users/test/nxcar/.dart_tool/flutter_build/001d7d56935835dcd310411fe5ba8ab1/native_assets.yaml: 
